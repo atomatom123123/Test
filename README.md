@@ -13,3 +13,9 @@
   นักล่าค่าหัว
 </h1>
 <img width="498" height="1024" alt="6800da77-8872-4929-b659-1c26ea5a451d" src="https://github.com/user-attachments/assets/9fa4affb-bf77-4a9a-b547-2c9a8335ae26" />
+
+<h1>
+  จอมเขมือบ
+</h1>
+
+<img width="498" height="1024" alt="2826058d-4322-49e4-b86c-b18f07e228db" src="https://github.com/user-attachments/assets/5221ea41-6b8c-47ec-9d77-890ec628dfcb" />
