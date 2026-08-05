@@ -1,3 +1,4 @@
+
 <h1>
   นักเวท
 </h1>
@@ -19,3 +20,9 @@
 </h1>
 
 <img width="498" height="1024" alt="2826058d-4322-49e4-b86c-b18f07e228db" src="https://github.com/user-attachments/assets/5221ea41-6b8c-47ec-9d77-890ec628dfcb" />
+
+<h1>
+  Hacker
+</h1>
+
+<img width="498" height="1024" alt="c4166477-bf01-4834-ae65-1919e3f63d1b" src="https://github.com/user-attachments/assets/4a50cf14-3eb9-49e4-9a74-101e941c1214" />
